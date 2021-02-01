@@ -32,11 +32,15 @@ This is related to the environmental factors above, but the amount of rare earth
 ## Current status
 
   - *Turbine assembly model:*
+  
   ![turbine-assembly](http://176.58.110.19/wp-content/uploads/2021/02/turbine-assembly.png)
 - *Water container assembly model:*
+
 ![water-assembly](http://176.58.110.19/wp-content/uploads/2021/02/water-container-e1612189903243.png)
 - *Full assembly model:*
+
 ![full-assembly](http://176.58.110.19/wp-content/uploads/2021/02/complete-assembly.png)
+
 - BOM & Parts sourcing created.
  
 ## Next Steps
@@ -56,4 +60,4 @@ This is related to the environmental factors above, but the amount of rare earth
 | Future | Further testing, R&D |
 
 ## License
-This Software is licensed under the MIT License.
+This system (Software & Hardware) is licensed under the MIT License.

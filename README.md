@@ -39,7 +39,7 @@ This is related to the environmental factors above, but the amount of rare earth
 ![water-assembly](http://176.58.110.19/wp-content/uploads/2021/02/water-container-e1612189903243.png)
 - *Full assembly model:*
 
-![full-assembly](http://176.58.110.19/wp-content/uploads/2021/02/complete-assembly.png)
+![full-assembly](https://github.com/BeechatNetworkSystemsLtd/OpenJuice/blob/main/Condenser.jpg)
 
 - BOM & Parts sourcing created.
  

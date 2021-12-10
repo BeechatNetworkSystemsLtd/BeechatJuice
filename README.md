@@ -1,14 +1,14 @@
-# OpenJuice
+# Beechat Juice
 
 ![BNS Ltd.](http://176.58.110.19/wp-content/uploads/2021/02/powered-by-1.png)
 
 
-## What is OpenJuice?
+## What is Beechat Juice?
 
-OpenJuice was envisioned with the same concept as the Beechat Network, applied to energy instead of communications. In essence, we want to provide the world with access to an Open Source solar energy generation machine, that is scalable and reproducible by anyone with access to simple tools, or even large factories. 
+Beechat Juice was envisioned with the same concept as the Beechat Network, applied to energy instead of communications. In essence, we want to provide the world with access to an Open Source solar energy generation machine, that is scalable and reproducible by anyone with access to simple tools, or even large factories. 
 
 ## Why?
-If there were to be some sort of global or regional supply chain collapse, a low-tech Open Source solution like OpenJuice would be vital to provide people with an energy solution that is local and does not require a complex trade network.
+If there were to be some sort of global or regional supply chain collapse, a low-tech Open Source solution like Beechat Juice would be vital to provide people with an energy solution that is local and does not require a complex trade network.
 For the first version, we decided to focus on CSP, as materials are cheap, abundant, and easily recyclable. This project aims to bring, not only Open Source CSP technology, but also VAWT, and Geothermal, Hydro, and others in the future.
 
 ## Applications
@@ -39,7 +39,7 @@ This is related to the environmental factors above, but the amount of rare earth
 ![water-assembly](http://176.58.110.19/wp-content/uploads/2021/02/water-container-e1612189903243.png)
 - *Full assembly model:*
 
-![full-assembly](https://github.com/BeechatNetworkSystemsLtd/OpenJuice/blob/main/Condenser.jpg)
+![full-assembly](https://github.com/BeechatNetworkSystemsLtd/Beechat Juice/blob/main/Condenser.jpg)
 
 - BOM & Parts sourcing created.
  
@@ -52,11 +52,10 @@ This is related to the environmental factors above, but the amount of rare earth
 | Time | Milestone |
 | ------ | ------ |
 | Q1 '21 | Design of assembly V1 incl. passive condensation |
-| Q2 '21 | Test of assembly V1 |
-| Q3 '21 | Tracking tripod design |
-| Q4 '21 | Design iteration & test of V2 |
-| Q1 '22 | Production run #1 |
-| Q2 '22 | Design of VAWT machine V1 |
+| Q2 '22 | Test of assembly V1 |
+| Q3 '22 | Tracking tripod design |
+| Q4 '22 | Design iteration & test of V2 |
+| Q1 '23 | Production run #1 |
 | Future | Further testing, R&D |
 
 ## License

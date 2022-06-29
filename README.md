@@ -33,13 +33,17 @@ This is related to the environmental factors above, but the amount of rare earth
 
   - *Turbine assembly model:*
   
-  ![turbine-assembly](http://176.58.110.19/wp-content/uploads/2021/02/turbine-assembly.png)
+  ![turbine-assembly](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatJuice/main/Turbine%20assembly.jpg)
 - *Water container assembly model:*
 
-![water-assembly](http://176.58.110.19/wp-content/uploads/2021/02/water-container-e1612189903243.png)
+![water-assembly](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatJuice/main/Water%20container%20assembly.jpg)
 - *Full assembly model:*
 
-![full-assembly](https://github.com/BeechatNetworkSystemsLtd/Beechat Juice/blob/main/Condenser.jpg)
+![full-assembly](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatJuice/main/Condenser.jpg)
+
+![full-assembly](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatJuice/main/Final%20assembly.jpg)
+
+![full-assembly](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatJuice/main/Dish.jpg)
 
 - BOM & Parts sourcing created.
  
